@@ -1,2 +1,3 @@
-# weeklyupdates.github.io
- Weekly progress blog for my master's thesis on blockchain security.
+this is where i keep the source for weeklyupdates.github.io.
+
+uses hugo static page generator.
